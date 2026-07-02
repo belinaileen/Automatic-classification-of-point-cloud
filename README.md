@@ -8,6 +8,19 @@ Affiliated with *Delft University of Technology*
 * **Jaime Vergara** 
 * **Niranjan Pradeep** 
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="img/overall.png" alt="3DcityJSON" width="450"><br>
+      <b>invalid self-intersecting..</b>
+    </td>
+    <td align="center">
+      <img src="img/vegetation_ground.png" alt="invalid 3D geom,non-watertight..." width="450"><br>
+      <b>invalid 3D geom, non-watertight...</b>
+    </td>
+  </tr>
+</table>
+
 ## Brief Introduction
 This pipeline automatically transforms raw, unclassified 3D Airborne LiDAR datasets (`.laz`) into semantically labeled point clouds. This is done by analyzing geometric characteristics, point density variations, and local structural shapes, the system is then able to isolate and classify features into three categories:
 
