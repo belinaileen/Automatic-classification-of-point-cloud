@@ -42,7 +42,7 @@ This pipeline automatically transforms raw, unclassified 3D Airborne LiDAR datas
 └── data/                         
     ├── out.laz                    
     └── dtm.tiff                   
-    
+```    
 ## Instructions to Run the Code
 
 #### 1) Download the following source codes from the `/code` directory
