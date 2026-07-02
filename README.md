@@ -11,12 +11,12 @@ Affiliated with *Delft University of Technology*
 <table>
   <tr>
     <td align="center">
-      <img src="img/overall.png" alt="3DcityJSON" width="450"><br>
-      <b>invalid self-intersecting..</b>
+      <img src="img/overall.png" alt="overall" width="450"><br>
+      <b>Classified PC</b>
     </td>
     <td align="center">
-      <img src="img/vegetation_ground.png" alt="invalid 3D geom,non-watertight..." width="450"><br>
-      <b>invalid 3D geom, non-watertight...</b>
+      <img src="img/vegetation_ground.png" alt="vegetation+building classification" width="450"><br>
+      <b>vegetation+building classification</b>
     </td>
   </tr>
 </table>
